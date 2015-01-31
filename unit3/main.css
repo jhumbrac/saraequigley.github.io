@@ -1,27 +1,24 @@
-#slogan {
-	font-style: italic;
+h1 {
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	font-family: Helvetica;
+	font-size: 33px
 }
 
-h1 {
-	font-family: Helvetica, sans-serif;
-	font-size: 24px;
-	font-weight: bold;
+#slogan {
+	color: #fff;
 	text-align: center;
+	font-weight: bold;
+	font-family: Helvetica;
+	font-size: 27px
+}
+
+hr {
+	width: 300px
 }
 
 body {
 	background: url("http://valeryscafe.com/sites/default/files/imagecache/product_full/Banana-Pancakes.jpg");
 	background-size: cover;
-	color: #fff;
-	font-family: Georgia;
-	font-size: 22px
-}
-
-hr {
-	width: 300px;
-}
-
-#contact {
-	font-size: 16px
-	font-family: Helvetica;
 }
