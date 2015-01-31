@@ -3,8 +3,8 @@ h1 {
 	text-align: center;
 	font-weight: bold;
 	font-family: "Travel Diary";
-	font-style: italic;
-	font-size: 50px
+	font-style: none;
+	font-size: 60px
 }
 
 #slogan {
@@ -22,5 +22,6 @@ hr {
 
 body {
 	background: url("http://valeryscafe.com/sites/default/files/imagecache/product_full/Banana-Pancakes.jpg");
-	background-size: 100%;
+	background-width: 100%;
+	background-height: 100%;
 }
