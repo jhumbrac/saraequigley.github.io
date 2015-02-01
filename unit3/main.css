@@ -1,27 +1,35 @@
+body {
+	background: url("http://valeryscafe.com/sites/default/files/imagecache/product_full/Banana-Pancakes.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+}
 h1 {
 	color: #fff;
 	text-align: center;
 	font-weight: bold;
-	font-family: "Travel Diary";
-	font-style: none;
+	font-family: "Travel Diary", serif;
 	font-size: 60px
 }
-
-#slogan {
-	color: #fff;
-	text-align: center;
-	font-weight: bold;
-	font-family: "Open Sans";
-	text-transform: capitalize;
-	font-size: 27px
-}
-
 hr {
 	width: 300px
 }
-
-body {
-	background: url("http://valeryscafe.com/sites/default/files/imagecache/product_full/Banana-Pancakes.jpg");
-	background-width: 100%;
-	background-height: 100%;
+#slogan {
+	text-align: center;
+	font-weight: bold;
+	text-transform: capitalize;
+	font-size: 27px
+}
+#splash {
+	height:100vh;
+}
+#splash div { }
+#list { 
+	background:#222;
+}
+#list div {
+	margin:auto;
+	width:400px;
 }
