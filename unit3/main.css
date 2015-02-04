@@ -24,9 +24,12 @@ hr {
 }
 #splash {
 	height:100vh;
-<<<<<<< HEAD
 }
-#splash div { }
+
+#splash div {
+	margin: 0;
+	padding: 0;
+	border: 0; }
 #list { 
 	background:#222;
 }
@@ -44,4 +47,4 @@ hr {
 	margin:auto;
 	width:400px;
 }
->>>>>>> FETCH_HEAD
+
