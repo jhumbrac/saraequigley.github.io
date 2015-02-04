@@ -1,11 +1,13 @@
 body {
 	background: url("http://valeryscafe.com/sites/default/files/imagecache/product_full/Banana-Pancakes.jpg");
 	background-size:cover;
-	background-repeat:no-repeat;
+	background-repeat: no-repeat;
 	background-attachment:fixed;
 	color: #fff;
 	font-family: 'Open Sans', sans-serif;
+	padding-bottom: 0
 }
+
 h1 {
 	color: #fff;
 	text-align: center;
