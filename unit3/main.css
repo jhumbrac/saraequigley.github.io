@@ -5,7 +5,6 @@ body {
 	background-attachment:fixed;
 	color: #fff;
 	font-family: 'Open Sans', sans-serif;
-	padding-bottom: 0
 }
 
 h1 {
@@ -15,9 +14,11 @@ h1 {
 	font-family: "Travel Diary", serif;
 	font-size: 60px
 }
+
 hr {
-	width: 300px
+	width: 100px
 }
+
 #slogan {
 	text-align: center;
 	font-weight: bold;
@@ -33,10 +34,6 @@ hr {
 	margin: 0;
 	padding: 0;
 	border: 0; 
-}
-
-#list { 
-	background:#222.2;
 }
 
 #list div {
