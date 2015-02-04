@@ -22,6 +22,7 @@ hr {
 	text-transform: capitalize;
 	font-size: 27px
 }
+
 #splash {
 	height:100vh;
 }
@@ -30,6 +31,7 @@ hr {
 	margin: 0;
 	padding: 0;
 	border: 0; }
+
 #list { 
 	background:#222;
 }
@@ -37,14 +39,15 @@ hr {
 	margin:auto;
 	width:400px;
 }
-=======
-}
-#splash div { }
+
+
 #list { 
 	background:#222;
 }
+
 #list div {
 	margin:auto;
 	width:400px;
+	padding-top: 0
 }
 
