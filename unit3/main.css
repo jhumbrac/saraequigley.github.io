@@ -1,3 +1,4 @@
+* {margin:0;padding:0;box-sizing:border-box;}
 body {
 	background: url("http://valeryscafe.com/sites/default/files/imagecache/product_full/Banana-Pancakes.jpg");
 	background-size:cover;
@@ -23,18 +24,15 @@ h1 {
 }
 
 #splash {
-	height:100vh;
+	height:50vh;
 }
 
 #splash div {
-	margin: 0;
-	padding: 0;
-	border: 0; 
+
 }
 
 #list div {
 	margin:auto;
 	width:400px;
-	padding-top: 0
 }
 
