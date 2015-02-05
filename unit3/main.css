@@ -13,14 +13,17 @@ h1 {
 	text-align: center;
 	font-weight: bold;
 	font-family: "Travel Diary", serif;
-	font-size: 60px
+	font-size: 60px;
+}
+li {
+	margin-left:1em;
 }
 
 #slogan {
 	text-align: center;
 	font-weight: bold;
 	text-transform: capitalize;
-	font-size: 27px
+	font-size: 27px;
 }
 
 #splash {
@@ -30,7 +33,9 @@ h1 {
 #splash div {
 
 }
-
+#list {
+	background:rgba(0,0,0,.5);
+}
 #list div {
 	margin:auto;
 	width:400px;
