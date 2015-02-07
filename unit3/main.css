@@ -30,7 +30,6 @@ li {
 
 #splash {
 	height:30vh;
-
 }
 
 #list {
@@ -38,8 +37,8 @@ li {
 	color: #00B200;
 	font-weight: bold;
 	font-size: 20px;
-	height: 20vh;
 }
+
 #list div {
 	margin:auto;
 	width:400px;
