@@ -33,6 +33,7 @@ li {
 
 #list {
 	background:rgba(255,234,174,.5);
+	color: #00B200;
 }
 #list div {
 	margin:auto;
