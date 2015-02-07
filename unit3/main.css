@@ -25,15 +25,18 @@ li {
 	font-weight: bold;
 	text-transform: capitalize;
 	font-size: 27px;
+	height: 5vh;
 }
 
 #splash {
-	height:50vh;
+	height:30vh;
 }
 
 #list {
 	background:rgba(255,234,174,.5);
 	color: #00B200;
+	font-weight: bold;
+	font-size: 20px;
 }
 #list div {
 	margin:auto;
