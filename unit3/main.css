@@ -29,16 +29,17 @@ li {
 }
 
 #splash {
-	height:30vh;
+	height:40vh;
 	padding-top: 15vh;
 }
 
 #list {
 	background:rgba(255,234,174,.8);
 	color: rgba(0,0,0,.5);
-	font-weight: bold;
+	font-weight: normal;
 	font-size: 20px;
 	padding-top: 5vh;
+	padding-bottom: 5vh;
 }
 
 #list div {
