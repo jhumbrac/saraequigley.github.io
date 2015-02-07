@@ -51,5 +51,16 @@ li {
 	margin:auto;
 	height: 40vh;
 	padding-top: 15vh;
+	text-align: center;
+}
+
+#contact {
+	background: rgba(255,234,174,.8);
+	color: rgba(0,0,0,.5);
+	font-weight: bold;
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+	margin: auto;
+	width: 100px;
 }
 
