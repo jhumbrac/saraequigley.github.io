@@ -35,7 +35,7 @@ li {
 
 #list {
 	background:rgba(255,234,174,.8);
-	color: #00B200;
+	color: rgba(0,0,0,.5);
 	font-weight: bold;
 	font-size: 20px;
 	padding-top: 5vh;
