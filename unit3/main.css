@@ -44,7 +44,7 @@ li {
 
 #list div {
 	margin:auto;
-	width:400px;
+	width:300px;
 }
 
 #contact {
@@ -61,6 +61,6 @@ li {
 	padding-top: 5vh;
 	padding-bottom: 5vh;
 	margin: auto;
-	width: 100px;
+	height: 100px;
 }
 
