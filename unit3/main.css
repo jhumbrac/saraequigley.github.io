@@ -12,7 +12,7 @@ h1 {
 	color: #8F074B;
 	text-align: center;
 	font-weight: bold;
-	font-family: "Travel Diary", serif;
+	font-family: "Playfair Display", serif;
 	font-size: 60px;
 }
 li {
@@ -31,6 +31,7 @@ li {
 #splash {
 	height:40vh;
 	padding-top: 15vh;
+	font-family: "Playfair Display", serif;
 }
 
 #list {
