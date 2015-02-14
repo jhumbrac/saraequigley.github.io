@@ -1,14 +1,14 @@
+#splash {
+	text-align: left;
+	font-family:'Calligraffitti', cursive;
+}
+
 body {
 	background-color: rgb(255,255,255);
 	color: rgb(255,255,255);
 }
 
-head {
-	text-align: left;
-	font-family:'Calligraffitti', cursive;
-}
-
-.about {
+#about {
 	font-family: 'Lato', sans-serif;
 }
 
