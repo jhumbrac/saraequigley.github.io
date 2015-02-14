@@ -56,12 +56,22 @@ body {
 }
 
 #about div {
-	font-family: 'Lato', sans-serif;
+	font-family:'Raleway', sans-serif;
 	background: none;
 	padding-top: 5vh;
 	padding-bottom: 5vh;
 	margin: auto;
 	width: auto;
 	height:100vh;
+}
+
+#hello {
+	font-family: 'Raleway', sans-serif;
+	font-style: italic;
+	font-size: 26px;
+	color: rgb(255,90,95);
+	text-align: center;
+	padding-bottom: 10px;
+	padding top: 10px;
 }
 
