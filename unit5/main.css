@@ -1,11 +1,8 @@
 *{margin:0;padding:0;box-sizing:border-box;}
 
 body {
-	background: rgb(0,189,125);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	font: "Lato", sans-serif;
+	background: none;
+	color: #006633;
 }
 
 #splash {
@@ -23,7 +20,7 @@ body {
 
 #about div {
 	font-family: 'Lato', sans-serif;
-	background: url("images/moabbw.jpg");
+	background: none;
 	padding-top: 5vh;
 	padding-bottom: 5vh;
 	margin: auto;
