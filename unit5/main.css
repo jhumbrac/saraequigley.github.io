@@ -13,6 +13,7 @@ body {
 	font-family:'Calligraffitti', cursive;
 	font-size: 26px;
 	padding:10px;
+	padding-top: 15px
 }
 
 #about {
@@ -21,9 +22,7 @@ body {
 	padding-top: 5vh;
 	padding-bottom: 5vh;
 	margin: auto;
-	width: 300px;
+	width: auto;
+	height:40vh;
 }
 
-h1 {
-	color: 11733C;
-}
