@@ -4,6 +4,7 @@
 	background-color: rgb(0,0,0);
 	color: rgb(255,255,255);
 	padding: 5vh;
+	text-align: right;
 }
 
 li {
@@ -22,7 +23,7 @@ body {
 
 #splash {
 	text-align: center;
-	font-family:'Calligraffitti', cursive;
+	font-family:'Raleway', sans-serif;
 	font-size: 26px;
 	padding:10px;
 	padding-top: 10px;
