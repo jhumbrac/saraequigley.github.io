@@ -13,7 +13,12 @@ body {
 	font-family:'Calligraffitti', cursive;
 	font-size: 26px;
 	padding:10px;
-	padding-top: 70px
+	padding-top: 10px
+}
+
+#slogan {
+	font-size: 20px;
+	padding-top: 1px;
 }
 
 #about div {
@@ -23,6 +28,6 @@ body {
 	padding-bottom: 5vh;
 	margin: auto;
 	width: auto;
-	height:40vh;
+	height:100vh;
 }
 
