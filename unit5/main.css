@@ -1,5 +1,14 @@
 *{margin:0;padding:0;box-sizing:border-box;}
 
+#nav {
+	background-color: rgb(0,0,0);
+	color: rgb(255,255,255);
+}
+
+li {
+	display: inline;
+}
+
 body {
 	background: none;
 	color: #006633;
