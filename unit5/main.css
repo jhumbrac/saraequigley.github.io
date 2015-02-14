@@ -63,12 +63,15 @@ body {
 	margin: auto;
 	width: auto;
 	height:100vh;
+	text-align: center;
+	padding-left: 18px;
+	padding-right: 18px;
 }
 
 #hello {
 	font-family: 'Raleway', sans-serif;
 	font-style: italic;
-	font-size: 26px;
+	font-size: 46px;
 	color: rgb(255,90,95);
 	text-align: center;
 	padding-bottom: 10px;
