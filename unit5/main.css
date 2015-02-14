@@ -74,8 +74,12 @@ body {
 	font-size: 46px;
 	color: rgb(255,90,95);
 	text-align: center;
-	padding-bottom: 40px;
+	padding-bottom: 20px;
 	padding top: 10px;
+}
+
+#claim {
+	padding-bottom: 40px;
 }
 
 #aboutbutton {
