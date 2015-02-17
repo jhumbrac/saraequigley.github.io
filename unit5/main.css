@@ -90,17 +90,20 @@ body {
 	margin-bottom: 1em;
 	width: 15em;
 	margin: auto;
+	padding-bottom: 175px;
 }
 
 #photos {
 	background-color: rgba(0,0,0,.7);
 	color: rgb(255,255,255);
+	padding-top: 5px;
 }
 
 #footer {
 	background-color: rgb(0,0,0);
 	color: rgb(255,255,255);
 	padding: 2vh;
+	padding-bottom: 2vh;
 	text-align: right;
 }
 
