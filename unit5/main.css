@@ -3,7 +3,7 @@
 #nav {
 	background-color: rgb(0,0,0);
 	color: rgb(255,255,255);
-	padding: 5vh;
+	padding: 2vh;
 	text-align: right;
 }
 
@@ -32,7 +32,7 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	padding: 300px;
+	padding: 175px;
 	margin: auto;
 }
 
