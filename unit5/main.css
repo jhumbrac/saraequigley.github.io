@@ -58,7 +58,7 @@ body {
 #about div {
 	font-family:'Raleway', sans-serif;
 	background: none;
-	padding-top: 5vh;
+	padding-top: 10vh;
 	padding-bottom: 5vh;
 	margin: auto;
 	width: auto;
@@ -94,7 +94,7 @@ body {
 
 #photos div {
 	background-color: rgba(0,0,0,.7);
-	padding-top: 5vh;
+	padding-top: 10vh;
 	padding-bottom: 5vh;
 	height: 165vh;
 	margin: auto;
