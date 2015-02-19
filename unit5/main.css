@@ -36,17 +36,27 @@ nav li {
 	padding-top: .5em 0 3em 0;
 	font-weight:700;
 }
-
-.button {
-	font-size: 1em;
-	padding: 1em 2em;
-	margin-top: 1em;
-	margin-bottom: 1em;
-	width: 22em;
-	margin: auto;
-	border-color: #222;
-	border-style: solid;
+.button, .aboutbutton {
+	border: 2px solid #222;
+	color:#222;
+	display:block;
 	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	margin:1em auto;
+	padding: .5em 1em;
+	text-align:center;
+	text-decoration:none;
+}
+.button {
+	width: 22em;
+}
+.aboutbutton {
+	width: 15em;
+}
+.button:hover, .aboutbutton:hover {
+	background:#222;
+	color:#fff;
+	transition-duration:.5s;
 }
 
 #about div {
@@ -67,15 +77,6 @@ nav li {
 	padding-bottom: 1.5em;
 }
 
-.aboutbutton {
-	border: 2px solid #222;
-	display: block;
-	padding: 1em 2em;
-	margin:1em auto;
-	width: 15em;
-	font-family: 'Montserrat', sans-serif;
-}
-
 #photos div {
 	background-color: rgba(0,0,0,.7);
 	margin: auto;
@@ -83,14 +84,16 @@ nav li {
 }
 #photos ul {
 	margin:0 auto;
-	width:60em;
+	max-width:1400px;
 }
 #photos li {
 	float:left;
-	padding:.5em;
+	padding:.25em;
 	width:25%;
 }
 #photos li img {
+	height:170;
+	overflow:hidden;
 	width:100%;
 }
 
