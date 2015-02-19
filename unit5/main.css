@@ -11,14 +11,6 @@ nav {
 	text-align: right;
 	font-family: 'Montserrat', sans-serif;
 }
-
-li {
-	display: inline;
-	padding: 1em;
-	text-align: right;
-	margin: 1em 0;
-}
-
 #splash {
 	text-align: center;
 	font-size: 1.5em;
@@ -80,6 +72,15 @@ li {
 	background-color: rgba(0,0,0,.7);
 	margin: auto;
 	padding:1em 1em .5em 1em;
+}
+#photos ul {
+	margin:0 auto;
+	width:60em;
+}
+#photos li {
+	float:left;
+	padding:.5em;
+	width:25%;
 }
 
 #lense {
