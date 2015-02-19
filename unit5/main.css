@@ -13,6 +13,11 @@ nav {
 ul {
 	list-style-type:none;
 }
+nav a {
+	color:#fff;
+	text-decoration:none;
+}
+nav a:hover { }
 nav ul { float:right; }
 nav li {
 	float:left;
@@ -84,16 +89,16 @@ nav li {
 }
 #photos ul {
 	margin:0 auto;
-	max-width:1400px;
+	/*max-width:1400px;*/
 }
 #photos li {
 	float:left;
 	padding:.25em;
 	width:25%;
+	height:300px;
+	overflow:hidden;
 }
 #photos li img {
-	height:170;
-	overflow:hidden;
 	width:100%;
 }
 
