@@ -8,8 +8,16 @@ nav {
 	background-color: #222;
 	color: rgb(255,255,255);
 	padding: 1em;
-	text-align: right;
+	float:right;
 	font-family: 'Montserrat', sans-serif;
+}
+ul {
+	list-style-type:none;
+}
+nav li {
+	float:left;
+	padding: 1em;		
+	margin: 1em 1em;
 }
 #splash {
 	text-align: center;
