@@ -17,7 +17,12 @@ nav a {
 	color:#fff;
 	text-decoration:none;
 }
-nav a:hover { }
+nav a:hover {
+	background:rgb(39,204,172);
+	border-color: rgb(255,255,255);
+	color:#fff;
+	transition-duration:.5s; 
+}
 nav ul { float:right; }
 nav li {
 	float:left;
