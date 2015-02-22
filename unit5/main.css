@@ -156,6 +156,7 @@ footer {
 	text-align: right;
 	font-family: 'Montserrat', sans-serif;
 }
+
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
