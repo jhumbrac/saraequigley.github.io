@@ -42,7 +42,7 @@ nav li {
 	font-weight:700;
 }
 .button, .aboutbutton {
-	border: 2px solid #222;
+	border: 2px solid;
 	display:block;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 1em;
@@ -52,10 +52,12 @@ nav li {
 	text-decoration:none;
 }
 .button {
+	border-color: rgb(255,255,255);
 	width: 22em;
 	color: rgb(255,255,255);
 }
 .aboutbutton {
+	border-color: #222;
 	width: 15em;
 	color:#222;
 }
