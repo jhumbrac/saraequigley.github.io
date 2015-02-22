@@ -105,6 +105,7 @@ nav li {
 }
 #photos li img {
 	width:100%;
+	height: 125px;
 }
 
 #lense {
