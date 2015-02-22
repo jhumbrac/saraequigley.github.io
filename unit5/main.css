@@ -137,6 +137,9 @@ nav li {
 #communication {
 	color: #222;
 	padding-bottom: 3em;
+	font-weight: bold;
+	color: #222;
+	text-decoration: none;
 }
 
 #communication a:hover{
@@ -153,9 +156,6 @@ nav li {
 	padding: .25em;
 	width: 25%;
 	height: 25%;
-	font-weight: bold;
-	color: #222;
-	text-decoration: none;
 }
 
 footer {
