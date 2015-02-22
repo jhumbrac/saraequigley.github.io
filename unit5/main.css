@@ -43,7 +43,6 @@ nav li {
 }
 .button, .aboutbutton {
 	border: 2px solid #222;
-	color:#222;
 	display:block;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 1em;
@@ -54,9 +53,11 @@ nav li {
 }
 .button {
 	width: 22em;
+	color: rgb(255,255,255);
 }
 .aboutbutton {
 	width: 15em;
+	color:#222;
 }
 .button:hover, .aboutbutton:hover {
 	background:rgb(39,204,172);
