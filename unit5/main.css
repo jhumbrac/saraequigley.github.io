@@ -59,7 +59,7 @@ nav li {
 	width: 15em;
 }
 .button:hover, .aboutbutton:hover {
-	background:#222;
+	background:rgb(39,204,172);
 	color:#fff;
 	transition-duration:.5s;
 }
