@@ -31,7 +31,7 @@ nav li {
 }
 h1 {
 	font-family: 'Parisienne', cursive;
-	font-size: 2em;
+	font-size: 3em;
 }
 #splash {
 	color: rgb(255,232,232);
@@ -42,7 +42,7 @@ h1 {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	padding: 175px;
-	padding-top: 210px;
+	padding-top: 220px;
 	padding-bottom: 170px;
 	margin: auto;
 }
