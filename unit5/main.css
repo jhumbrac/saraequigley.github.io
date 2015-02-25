@@ -50,7 +50,7 @@ nav li {
 	border: 2px solid;
 	display:block;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 1em;
+	font-size: .7em;
 	margin:1em auto;
 	padding: .5em .5em;
 	text-align:center;
@@ -68,7 +68,7 @@ nav li {
 }
 .button:hover, .aboutbutton:hover {
 	background:rgb(39,204,172);
-	border-color: rgb(255,255,255);
+	border-color: rgb(39, 204, 172);
 	color:#fff;
 	transition-duration:.5s;
 }
