@@ -34,7 +34,10 @@ div {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	padding: 175px;
+	padding-top: 310px;
+	padding-left: 50px;
+	padding-bottom: 150px;
+	padding-right: 50px;
 	margin: auto;
 }
 h1 {
