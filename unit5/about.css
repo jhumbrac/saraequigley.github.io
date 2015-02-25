@@ -45,13 +45,14 @@ div {
 	background-color: rgba(34,34,34,.5);
 	padding:2.5em;
 	text-align: justify;
+	font-family:'Libre Baskerville', serif;
+	font-size: 1em;
 }
 h1 {
 	color: rgb(255,232,232);
 	text-align: center;
+	font-family: 'Parisienne', cursive;
 	font-size: 2em;
-	font-weight: 700;
-	font-style: italic;
 }
 #heart {
 	color: rgb(250,34,34);
