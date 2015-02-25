@@ -1,0 +1,38 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+body {
+	color: rgb(255,255,255);
+	font-family:'Raleway', sans-serif;
+	font-size:18px;
+}
+nav {
+	background-color: rgb(34,34,34);
+	color: rgb(255,255,255);
+	padding: .5em;
+	font-family: 'Montserrat', sans-serif;
+}
+ul {
+	list-style-type:none;
+}
+nav a {
+	color: rgb(255,255,255);
+	text-decoration:none;
+}
+nav a:hover {
+	color:rgb(39,204,172);
+	transition-duration:.5s; 
+}
+nav ul { 
+	float:right; 
+}
+nav li {
+	float:left;
+	padding: .5em;		
+	margin: 0;
+}
+footer {
+	background-color: #222;
+	color: rgb(255,255,255);
+	padding: .5em;
+	text-align: right;
+	font-family: 'Montserrat', sans-serif;
+}
