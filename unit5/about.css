@@ -1,6 +1,6 @@
 *{margin:0;padding:0;box-sizing:border-box;}
 body {
-	color: rgb(255,255,255);
+	color: rgb(0,0,0);
 	font-family:'Raleway', sans-serif;
 	font-size:18px;
 }
@@ -29,6 +29,14 @@ nav li {
 	padding: .5em;		
 	margin: 0;
 }
+div {
+	padding: 175px;
+	margin: auto;
+}
+h1 {
+	text-align: center;
+}
+
 footer {
 	background-color: #222;
 	color: rgb(255,255,255);
