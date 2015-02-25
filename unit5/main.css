@@ -14,7 +14,7 @@ ul {
 	list-style-type:none;
 }
 nav a {
-	color:#fff;
+	color: rgb(255,232,232);
 	text-decoration:none;
 }
 nav a:hover {
@@ -58,7 +58,7 @@ nav li {
 	text-decoration:none;
 }
 .button {
-	border-color: rgb(255,255,255);
+	border-color: rgb(255,232,232);
 	width: 22em;
 	color: rgb(255,232,232);
 }
