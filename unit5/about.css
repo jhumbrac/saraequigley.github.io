@@ -41,6 +41,9 @@ div {
 	padding-right: 100px;
 	margin: auto;
 }
+#paragraph {
+	background-color: rgba(34,34,34,.5);
+}
 h1 {
 	color: rgb(255,232,232);
 	text-align: center;
