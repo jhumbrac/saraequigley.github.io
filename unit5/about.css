@@ -43,7 +43,7 @@ div {
 }
 #paragraph {
 	background-color: rgba(34,34,34,.5);
-	padding:1.2em;
+	padding:2.5em;
 	text-align: justify;
 }
 h1 {
@@ -51,7 +51,10 @@ h1 {
 	text-align: center;
 	font-size: 2em;
 	font-weight: 700;
-	text-decoration: italic;
+	font-style: italic;
+}
+#heart {
+	color: rgb(250,34,34);
 }
 
 footer {
