@@ -14,7 +14,8 @@ nav {
 	float:left;
 	padding:.25em;
 	width:25%;
-	height:.5em;
+	height:2em;
+	overflow:hidden;
 }
 ul {
 	list-style-type:none;
