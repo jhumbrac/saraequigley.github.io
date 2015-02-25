@@ -1,7 +1,7 @@
 *{margin:0;padding:0;box-sizing:border-box;}
 body {
 	color: rgb(255,255,255);
-	font-family: 'Parisienne', cursive;
+	font-family:'Libre Baskerville', serif;
 	font-size:18px;
 }
 nav {
@@ -31,6 +31,7 @@ nav li {
 }
 #splash {
 	color: rgb(255,232,232);
+	font-family: 'Parisienne', cursive;
 	text-align: center;
 	font-size: 1.2em;
 	font-weight:700;
@@ -83,6 +84,7 @@ nav li {
 }
 
 #hello {
+	font-family: 'Parisienne', cursive;
 	font-style: italic;
 	font-size: 3em;
 	color: rgb(255,90,95);
