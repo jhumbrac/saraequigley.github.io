@@ -13,8 +13,8 @@ nav {
 #logo {
 	float:left;
 	padding:.25em;
-	width:25%;
-	height:2px;
+	width:300px;
+	height:100px;
 	overflow:hidden;
 }
 ul {
