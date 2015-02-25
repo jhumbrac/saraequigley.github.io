@@ -31,7 +31,7 @@ nav li {
 }
 #splash {
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	font-weight:700;
 	background: url(images/moabbw3.jpg);
 	background-size: cover;
@@ -52,7 +52,7 @@ nav li {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 1em;
 	margin:1em auto;
-	padding: .5em 1em;
+	padding: .5em .5em;
 	text-align:center;
 	text-decoration:none;
 }
