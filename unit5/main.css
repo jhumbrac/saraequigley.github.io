@@ -36,11 +36,11 @@ nav ul {
 nav li {
 	float:left;
 	padding: .5em;		
-	margin: .5em;
+	margin: 0;
 }
 h1 {
 	font-family: 'Parisienne', cursive;
-	font-size: 3em;
+	font-size: 4em;
 }
 #splash {
 	color: rgb(255,232,232);
@@ -51,14 +51,14 @@ h1 {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	padding: 175px;
-	padding-top: 220px;
-	padding-bottom: 170px;
+	padding-top: 250px;
+	padding-bottom: 200px;
 	margin: auto;
 }
 
 #slogan {
 	font-family:'Libre Baskerville', serif;
-	font-size: 1em;
+	font-size: 1.3em;
 	padding-top: .5em 0 3em 0;
 	font-weight:700;
 }
@@ -66,7 +66,7 @@ h1 {
 	border: 2px solid;
 	display:block;
 	font-family: 'Libre Baskerville', serif;
-	font-size: .7em;
+	font-size: 1em;
 	margin:1em auto;
 	padding: .5em .5em;
 	text-align:center;
