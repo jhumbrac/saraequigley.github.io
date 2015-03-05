@@ -29,8 +29,6 @@ nav a:hover {
 	transition-duration:.5s; 
 	border: 2px solid;
 	display:block;
-	width:.5em;
-	height:.5em;
 }
 nav ul { 
 	float:right; 
@@ -38,7 +36,7 @@ nav ul {
 nav li {
 	float:left;
 	padding: .5em;		
-	margin: 0;
+	margin: .5em;
 }
 h1 {
 	font-family: 'Parisienne', cursive;
@@ -109,8 +107,8 @@ h1 {
 #claim {
 	color: #222;
 	padding-bottom: 1.5em;
-	margin-left: 5em;
-	margin-right: 5em;
+	margin-left: 10em;
+	margin-right: 10em;
 }
 
 #photos div {
