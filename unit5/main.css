@@ -63,7 +63,7 @@ h1 {
 	padding-top: .5em 0 3em 0;
 	font-weight:700;
 }
-.button, .aboutbutton {
+.button, .aboutbutton, .photobutton {
 	border: 2px solid;
 	display:block;
 	font-family: 'Libre Baskerville', serif;
@@ -83,7 +83,7 @@ h1 {
 	width: 15em;
 	color:#222;
 }
-.button:hover, .aboutbutton:hover {
+.button:hover, .aboutbutton:hover, .photobutton:hover {
 	background:rgb(39,204,172);
 	border-color: rgb(39, 204, 172);
 	color:#fff;
