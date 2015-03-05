@@ -29,6 +29,8 @@ nav a:hover {
 	transition-duration:.5s; 
 	border: 2px solid;
 	display:block;
+	width:.5em;
+	height:.5em;
 }
 nav ul { 
 	float:right; 
