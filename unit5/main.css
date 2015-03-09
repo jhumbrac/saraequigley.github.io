@@ -21,6 +21,7 @@ ul {
 	list-style-type:none;
 }
 nav a {
+	border:2px solid rgba(255,255,255,0);
 	color: rgb(255,255,255);
 	text-decoration:none;
 	padding: 20px;
@@ -29,7 +30,6 @@ nav a:hover {
 	border-color:rgb(255,255,255);
 	transition-duration:.5s; 
 	border: 2px solid;
-	display:block;
 }
 nav ul { 
 	float:right; 
@@ -125,12 +125,9 @@ h1 {
 	float:left;
 	padding:.25em;
 	width:25%;
-	height:200px;
-	overflow:hidden;
 }
 #photos li img {
-	width:75%;
-	height: 200px;
+	width:100%;
 }
 
 #lense {
