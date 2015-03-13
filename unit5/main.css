@@ -108,8 +108,9 @@ h1 {
 .claim {
 	color: #222;
 	padding-bottom: 1.5em;
-	margin-left: 20em;
-	margin-right: 20em;
+	margin-left: 15em;
+	margin-right: 15em;
+	text-align: left;
 }
 
 #photos div {
