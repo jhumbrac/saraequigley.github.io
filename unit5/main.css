@@ -177,10 +177,16 @@ h1 {
 .sharingIcons {
 	width:100%;
 	display:block;
-	float: left;
-	margin:7.5%;
-	font-size: 4em;
+	box-sizing:inherit;
 	color:#ff5a5f;
+}
+
+.sharingIcons a{
+	text-decoration: none;
+	color:#ff5a5f;
+	font-size:4em;
+	float:left;
+	margin:7.5%;
 }
 
 footer {
