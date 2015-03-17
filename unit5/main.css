@@ -204,3 +204,16 @@ footer {
 	height: 0; 
 	clear: both;
 }
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+	.claim {
+		margin-left: 10em;
+		margin-right: 10em;
+	}
+	#photos li {
+		float: none;
+		width: auto;
+	}
+}
+
+
+
