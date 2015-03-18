@@ -212,7 +212,7 @@ footer {
 	.claim {
 		width: auto;
 		text-align:left;
-		margin: none;
+		margin: 0;
 	}
 	#photos div{
 		display: block;
