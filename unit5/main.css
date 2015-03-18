@@ -1,6 +1,6 @@
 *{margin:0;padding:0;box-sizing:border-box;}
 body {
-	color: rgb(255,255,255);
+	color: #222;
 	font-family:'Libre Baskerville', serif;
 	font-size:18px;
 }
@@ -91,8 +91,6 @@ h1 {
 }
 
 #about div {
-	margin: auto;
-	text-align: center;
 	padding:1em 1em .5em 1em;
 }
 
@@ -106,11 +104,9 @@ h1 {
 }
 
 .claim {
-	color: #222;
+	margin:0 auto;
+	max-width:28em;
 	padding-bottom: 1.5em;
-	margin-left: 30em;
-	margin-right: 30em;
-	text-align: left;
 }
 
 #photos div {
@@ -154,7 +150,6 @@ h1 {
 }
 
 #communication {
-	color: #222;
 	padding-bottom: 3em;
 }
 
@@ -170,7 +165,6 @@ h1 {
 }
 
 #shy {
-	color: #222;
 	padding-bottom: 1.5em;
 }
 
@@ -204,32 +198,15 @@ footer {
 	height: 0; 
 	clear: both;
 }
-@media only screen and (max-width: 800px) {
-	#about div {
-		width: auto;
-		text-align: left;
-	}
-	.claim {
-		width: auto;
-		text-align:left;
-		margin: 0;
+@media only screen and (min-width:536px) and (max-width: 800px) {
+	#photos li {
+		width:50%;
 	}
 }
 
 @media only screen and (max-width: 535px) {
-	#about div {
-		width: auto;
-		text-align: left;
-		margin: none;
-	}
-	.claim {
-		width: auto;
-		text-align:left;
-		margin: none;
-	}
 	#photos li {
 		width: 100%;
-		float: none;
 	}
 }
 
