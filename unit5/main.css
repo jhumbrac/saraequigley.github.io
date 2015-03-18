@@ -209,6 +209,10 @@ footer {
 		margin: auto;
 		text-align: left;
 	}
+	.claim {
+		margin: auto;
+		text-align:left;
+	}
 	#photos {
 		float: none;
 		width: auto;
