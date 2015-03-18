@@ -227,7 +227,7 @@ footer {
 		text-align:left;
 		margin: none;
 	}
-	nav a, nav ul, nav li {
+	nav {
 		float: none;
 		width: auto;
 	}
