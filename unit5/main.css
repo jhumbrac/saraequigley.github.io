@@ -212,17 +212,19 @@ footer {
 	.claim {
 		width: auto;
 		text-align:left;
-		margin: none;
+		margin: 0;
 	}
 	#photos div{
 		display: block;
 		float: none;
 		width: auto;
+		text-align: center;
 	}
 	nav a {
 		display: block;
 		text-align: center;
 		margin: 0;
+		float: none;
 	}
 }
 
