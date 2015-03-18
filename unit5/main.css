@@ -228,12 +228,11 @@ footer {
 		margin: none;
 	}
 	#photos li {
-		width: 50%;
+		width: auto;
 		float: none;
 	}
 	#photos li img {
-		width: 50%;
-		float: none;
+		width: auto;
 	}
 }
 
