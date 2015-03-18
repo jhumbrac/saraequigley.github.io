@@ -212,6 +212,7 @@ footer {
 	#about {
 		width: auto;
 		text-align:left;
+		margin: none;
 	}
 	#photos div{
 		display: block;
