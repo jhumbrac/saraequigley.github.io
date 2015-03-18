@@ -231,6 +231,10 @@ footer {
 		width: 50%;
 		float: none;
 	}
+	#photos li img {
+		width: 50%;
+		float: none;
+	}
 }
 
 
