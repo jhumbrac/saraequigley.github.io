@@ -229,6 +229,7 @@ footer {
 	}
 	#photos li {
 		width: 50%;
+		float: none;
 	}
 }
 
