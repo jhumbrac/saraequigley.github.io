@@ -227,9 +227,8 @@ footer {
 		text-align:left;
 		margin: none;
 	}
-	nav {
-		float: none;
-		width: auto;
+	#photos li {
+		width: 50%;
 	}
 }
 
