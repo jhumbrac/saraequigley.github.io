@@ -204,18 +204,23 @@ footer {
 	height: 0; 
 	clear: both;
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 1000px) {
 	#about div {
-		margin: auto;
+		width: auto;
 		text-align: left;
 	}
 	#about {
-		margin: auto;
+		width: auto;
 		text-align:left;
 	}
 	#photos div{
 		float: none;
 		width: auto;
+	}
+	nav a {
+		display: block;
+		text-align: center;
+		margin: 0;
 	}
 }
 
