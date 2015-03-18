@@ -208,12 +208,11 @@ footer {
 	#about div {
 		width: auto;
 		text-align: left;
-		margin: none;
 	}
 	.claim {
 		width: auto;
 		text-align:left;
-		margin: none;
+		margin: 0;
 	}
 }
 
