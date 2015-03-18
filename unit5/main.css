@@ -204,13 +204,14 @@ footer {
 	height: 0; 
 	clear: both;
 }
-@media only screen and (max-width: 413px) {
+@media only screen and (max-width: 480px) {
 	#about div {
 		margin: auto;
 		text-align: left;
 	}
 	#about {
 		margin: auto;
+		margin-left: 0%;
 		text-align:left;
 	}
 	#photos {
