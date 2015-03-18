@@ -226,5 +226,17 @@ footer {
 	}
 }
 
+@media only screen and (max-width: 535px) {
+	#about div {
+		width: auto;
+		text-align: left;
+		margin: none;
+	}
+	.claim {
+		width: auto;
+		text-align:left;
+		margin: none;
+	}
+}
 
 
