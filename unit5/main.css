@@ -224,7 +224,7 @@ footer {
 	height: 0; 
 	clear: both;
 }
-@media only screen and (min-width:536px) and (max-width: 800px) {
+@media only screen and (min-width:500px) and (max-width: 832px) {
 	#photos li {
 		width:50%;
 	}
@@ -232,7 +232,20 @@ footer {
 		display: block;
 		position: fixed, top:0, left:0, right:0;
 	}
+	nav {display: none;}
 }
+@media only screen and (max-width:499px) {
+	.mobile-nav {
+		display: block;
+		position: fixed, top:0, left:0, right:0;
+	}
+	#photos li {
+		width:100%;
+	}
+	nav {display: none;}
+	}
+}
+
 
 .mobile-nav {
 	display: none;
