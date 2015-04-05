@@ -249,8 +249,8 @@ footer {
 	}
 	nav {display: none;}
 	}
-	.button {
-		width: auto;
+	.responsive-menu{
+	display: block;
 	}
 }
 
