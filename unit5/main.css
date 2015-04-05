@@ -114,7 +114,7 @@ h1 {
 	width: 15em;
 	color: #222;
 }
-.button:hover, .aboutbutton:hover, .emailbutton {
+.button:hover, .aboutbutton:hover, .emailbutton:hover {
 	background:rgb(39,204,172);
 	border-color: rgb(39, 204, 172);
 	color:#fff;
