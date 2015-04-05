@@ -89,7 +89,7 @@ h1 {
 	padding-top: .5em 0 3em 0;
 	font-weight:700;
 }
-.button, .aboutbutton {
+.button, .aboutbutton, .emailbutton {
 	border: 2px solid;
 	display:block;
 	font-family: 'Libre Baskerville', serif;
@@ -107,7 +107,7 @@ h1 {
 .aboutbutton {
 	border-color: #222;
 	width: 15em;
-	color:#222;
+	color: #222;
 }
 .emailbuttin {
 	border-color: #222;
