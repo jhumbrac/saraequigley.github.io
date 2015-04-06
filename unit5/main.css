@@ -51,6 +51,7 @@ h1 {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	background-position:center;
 	padding: 250px 175px 200px;
 	margin: auto;
 }
@@ -73,17 +74,17 @@ h1 {
 }
 .button {
 	border-color: rgb(255,232,232);
-	width: 22em;
+	max-width: 22em;
 	color: rgb(255,232,232);
 }
 .aboutbutton {
 	border-color: #222;
-	width: 15em;
+	max-width: 15em;
 	color: #222;
 }
 .emailbutton {
 	border-color: #222;
-	width: 15em;
+	max-width: 15em;
 	color: #222;
 }
 .button:hover, .aboutbutton:hover, .emailbutton:hover {
@@ -256,6 +257,11 @@ footer {
 	}
 	nav {display: none;}
 	#splash {
+		background: url(images/moabbw3.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: scroll;
+		background-position:center;
 		padding:250px 0 200px;
 	}
 }
@@ -270,6 +276,11 @@ footer {
 	nav {display: none;}
 	}
 	#splash {
+		background: url(images/moabbw3.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: scroll;
+		background-position:center;
 		padding:250px 0 200px;
 	}
 }
