@@ -229,7 +229,6 @@ footer {
 	background: rgb(34,34,34);
 	box-shadow: 0 19px 38px rgba (0,0,0,0,.30), 0 15px 12px rgba(0,0,0,0,.22);
 	padding: 1em;
-	display: none;
 }
 
 .menu-btn div {
@@ -243,7 +242,6 @@ footer {
 	font-weight: 200;
 	vertical-align: middle;
 	z-index: 99;
-	display: none;
 }
  
 .menu-btn span {
